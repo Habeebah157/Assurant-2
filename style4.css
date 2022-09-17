@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.text{
+    margin: 0;
+}
+
+body{
+    background: url(img/flood.jpeg);
+    
+}
+.rounded{
+    opacity: 85%;
+}
+.navigation{
+    opacity: 85%;
+}
